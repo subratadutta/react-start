@@ -1,0 +1,38 @@
+{
+  "name": "biginning-react",
+  "version": "1.0.0",
+  "description": "Beginning a React Project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "alias": {
+    "process": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subratadutta/react-start.git"
+  },
+  "keywords": [
+    "React",
+    "Beginning React",
+    "React with Parcel"
+  ],
+  "author": "Subrata Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subratadutta/react-start/issues"
+  },
+  "homepage": "https://github.com/subratadutta/react-start#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
